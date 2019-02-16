@@ -1,0 +1,15 @@
+.display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 20%;
+    width: 100%;
+    background-color: black;
+    border: 1px solid gray;
+    color: white;
+    font-size: 80px;
+}
+
+.display p {
+    padding-right: 10px;
+}
